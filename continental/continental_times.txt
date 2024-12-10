@@ -1,0 +1,9 @@
+16327
+	Execution time for prep work was: 17.582050 seconds
+	Execution time for drawing points was: 0.206383 seconds
+The number of hull cities is: 24 for algorithm Divide and Conquer Quick.
+	Execution time for divide and conquer convex hull was: 1.566625 seconds
+The number of hull cities is: 85 for algorithm Divide and Conquer Merge.
+	Execution time for divide and conquer convex hull was: 3.073020 seconds
+
+Execution time for all was: 22.428117 seconds

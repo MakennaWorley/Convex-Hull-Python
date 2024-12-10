@@ -1,0 +1,13 @@
+1656
+	Execution time for prep work was: 0.812187 seconds
+	Execution time for drawing points was: 0.084862 seconds
+The number of hull cities is: 18 for algorithm Brute Force Slope.
+	Execution time for brute force with slope convex hull was: 22.255589 seconds
+The number of hull cities is: 18 for algorithm Brute Force Determinant.
+	Execution time for brute force with determinant convex hull was: 31.159562 seconds
+The number of hull cities is: 18 for algorithm Divide and Conquer Quick.
+	Execution time for divide and conquer convex hull was: 0.302288 seconds
+The number of hull cities is: 18 for algorithm Divide and Conquer Merge.
+	Execution time for divide and conquer convex hull was: 0.353454 seconds
+
+Execution time for all was: 54.967988 seconds
